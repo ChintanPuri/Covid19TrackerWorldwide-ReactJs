@@ -1,0 +1,23 @@
+.left-arrow{
+  background: url('Left.png');
+  cursor: pointer;
+}
+
+.right-arrow{
+  background: url('Right.png');
+  cursor: pointer;
+}
+
+.back-arrow{
+  background: url('back-arrow.png');
+  cursor: pointer;
+}
+
+.search-icon{
+  width: 30px;
+  height: 30px;
+  background: url('search-icon.png');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  cursor: pointer;
+}
